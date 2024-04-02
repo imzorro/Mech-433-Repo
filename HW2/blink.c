@@ -1,4 +1,3 @@
-
 #include "pico/stdlib.h"
 
 // LED Pin is GPIO 25 check with opening definition of next line pico.h
