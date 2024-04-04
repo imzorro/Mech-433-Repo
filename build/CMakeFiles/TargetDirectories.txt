@@ -213,3 +213,6 @@ C:/Mech 433 Github/Mech-433-Repo/build/pico-sdk/docs/CMakeFiles/rebuild_cache.di
 C:/Mech 433 Github/Mech-433-Repo/build/HW2/CMakeFiles/HW2.dir
 C:/Mech 433 Github/Mech-433-Repo/build/HW2/CMakeFiles/edit_cache.dir
 C:/Mech 433 Github/Mech-433-Repo/build/HW2/CMakeFiles/rebuild_cache.dir
+C:/Mech 433 Github/Mech-433-Repo/build/HW3/CMakeFiles/HW3.dir
+C:/Mech 433 Github/Mech-433-Repo/build/HW3/CMakeFiles/edit_cache.dir
+C:/Mech 433 Github/Mech-433-Repo/build/HW3/CMakeFiles/rebuild_cache.dir

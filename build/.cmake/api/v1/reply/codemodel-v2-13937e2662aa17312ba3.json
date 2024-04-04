@@ -10,7 +10,8 @@
 					[
 						1,
 						2,
-						100
+						100,
+						101
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -593,9 +594,9 @@
 					"source" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/boot_stage2",
 					"targetIndexes" : 
 					[
-						1,
 						2,
-						3
+						3,
+						4
 					]
 				},
 				{
@@ -797,8 +798,8 @@
 					"source" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/tinyusb",
 					"targetIndexes" : 
 					[
-						11,
-						12
+						12,
+						13
 					]
 				},
 				{
@@ -861,7 +862,7 @@
 					"source" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/pico_cyw43_driver",
 					"targetIndexes" : 
 					[
-						4
+						5
 					]
 				},
 				{
@@ -1074,7 +1075,7 @@
 					"source" : "C:/Users/alext/Documents/Pico-v1.5.1/pico-extras/src/common/pico_scanvideo",
 					"targetIndexes" : 
 					[
-						9
+						10
 					]
 				},
 				{
@@ -1168,7 +1169,7 @@
 					"source" : "C:/Users/alext/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_audio_i2s",
 					"targetIndexes" : 
 					[
-						5
+						6
 					]
 				},
 				{
@@ -1183,7 +1184,7 @@
 					"source" : "C:/Users/alext/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_audio_pwm",
 					"targetIndexes" : 
 					[
-						6
+						7
 					]
 				},
 				{
@@ -1198,7 +1199,7 @@
 					"source" : "C:/Users/alext/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_audio_spdif",
 					"targetIndexes" : 
 					[
-						7
+						8
 					]
 				},
 				{
@@ -1213,7 +1214,7 @@
 					"source" : "C:/Users/alext/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_sd_card",
 					"targetIndexes" : 
 					[
-						10
+						11
 					]
 				},
 				{
@@ -1228,7 +1229,7 @@
 					"source" : "C:/Users/alext/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_scanvideo_dpi",
 					"targetIndexes" : 
 					[
-						8
+						9
 					]
 				},
 				{
@@ -1289,6 +1290,21 @@
 					[
 						0
 					]
+				},
+				{
+					"build" : "HW3",
+					"jsonFile" : "directory-HW3-Debug-df5c1ddf8bed96479f18.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "HW3",
+					"targetIndexes" : 
+					[
+						1
+					]
 				}
 			],
 			"name" : "Debug",
@@ -1303,12 +1319,14 @@
 					"directoryIndexes" : 
 					[
 						0,
-						100
+						100,
+						101
 					],
 					"name" : "Mech-433-Repo",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				},
 				{
@@ -1425,7 +1443,6 @@
 					"parentIndex" : 0,
 					"targetIndexes" : 
 					[
-						1,
 						2,
 						3,
 						4,
@@ -1436,7 +1453,8 @@
 						9,
 						10,
 						11,
-						12
+						12,
+						13
 					]
 				}
 			],
@@ -1447,6 +1465,13 @@
 					"id" : "HW2::@55324602d6d7b2a5aefb",
 					"jsonFile" : "target-HW2-Debug-e51aeb717c7ec15dce8e.json",
 					"name" : "HW2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 101,
+					"id" : "HW3::@2f3407f06ca23028a016",
+					"jsonFile" : "target-HW3-Debug-0cd60e3b576aaad8bdc8.json",
+					"name" : "HW3",
 					"projectIndex" : 0
 				},
 				{

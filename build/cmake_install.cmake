@@ -42,6 +42,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Mech 433 Github/Mech-433-Repo/build/pico_extras/cmake_install.cmake")
   include("C:/Mech 433 Github/Mech-433-Repo/build/pico-sdk/cmake_install.cmake")
   include("C:/Mech 433 Github/Mech-433-Repo/build/HW2/cmake_install.cmake")
+  include("C:/Mech 433 Github/Mech-433-Repo/build/HW3/cmake_install.cmake")
 
 endif()
 
