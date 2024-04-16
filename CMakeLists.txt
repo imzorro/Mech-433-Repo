@@ -21,6 +21,8 @@ pico_sdk_init()
 # Add new sub folder for each Homework assignenmt
 add_subdirectory(HW2)
 add_subdirectory(HW3)
+add_subdirectory(HW4)
+add_subdirectory(HW5)
 
 add_compile_options(-Wall
         -Wno-format          # int != int32_t as far as the compiler is concerned because gcc has int32_t as long int
