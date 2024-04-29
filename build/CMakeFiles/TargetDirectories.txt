@@ -225,3 +225,6 @@ C:/Mech 433 Github/Mech-433-Repo/build/HW5/CMakeFiles/rebuild_cache.dir
 C:/Mech 433 Github/Mech-433-Repo/build/HW6/CMakeFiles/HW6.dir
 C:/Mech 433 Github/Mech-433-Repo/build/HW6/CMakeFiles/edit_cache.dir
 C:/Mech 433 Github/Mech-433-Repo/build/HW6/CMakeFiles/rebuild_cache.dir
+C:/Mech 433 Github/Mech-433-Repo/build/HW7/CMakeFiles/HW7.dir
+C:/Mech 433 Github/Mech-433-Repo/build/HW7/CMakeFiles/edit_cache.dir
+C:/Mech 433 Github/Mech-433-Repo/build/HW7/CMakeFiles/rebuild_cache.dir
