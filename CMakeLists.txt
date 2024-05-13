@@ -26,6 +26,8 @@ add_subdirectory(HW5)
 add_subdirectory(HW6)
 add_subdirectory(HW7)
 add_subdirectory(HW9)
+add_subdirectory(HW12)
+
 
 add_compile_options(-Wall
         -Wno-format          # int != int32_t as far as the compiler is concerned because gcc has int32_t as long int
