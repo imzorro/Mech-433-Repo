@@ -49,6 +49,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Mech 433 Github/Mech-433-Repo/build/HW7/cmake_install.cmake")
   include("C:/Mech 433 Github/Mech-433-Repo/build/HW9/cmake_install.cmake")
   include("C:/Mech 433 Github/Mech-433-Repo/build/HW12/cmake_install.cmake")
+  include("C:/Mech 433 Github/Mech-433-Repo/build/HW13/cmake_install.cmake")
 
 endif()
 
