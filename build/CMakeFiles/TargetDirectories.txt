@@ -237,3 +237,6 @@ C:/Mech 433 Github/Mech-433-Repo/build/HW12/CMakeFiles/rebuild_cache.dir
 C:/Mech 433 Github/Mech-433-Repo/build/HW13IMU/CMakeFiles/HW13IMU.dir
 C:/Mech 433 Github/Mech-433-Repo/build/HW13IMU/CMakeFiles/edit_cache.dir
 C:/Mech 433 Github/Mech-433-Repo/build/HW13IMU/CMakeFiles/rebuild_cache.dir
+C:/Mech 433 Github/Mech-433-Repo/build/HW16/CMakeFiles/HW16.dir
+C:/Mech 433 Github/Mech-433-Repo/build/HW16/CMakeFiles/edit_cache.dir
+C:/Mech 433 Github/Mech-433-Repo/build/HW16/CMakeFiles/rebuild_cache.dir

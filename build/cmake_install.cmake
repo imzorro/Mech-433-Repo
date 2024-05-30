@@ -50,6 +50,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Mech 433 Github/Mech-433-Repo/build/HW9/cmake_install.cmake")
   include("C:/Mech 433 Github/Mech-433-Repo/build/HW12/cmake_install.cmake")
   include("C:/Mech 433 Github/Mech-433-Repo/build/HW13IMU/cmake_install.cmake")
+  include("C:/Mech 433 Github/Mech-433-Repo/build/HW16/cmake_install.cmake")
 
 endif()
 

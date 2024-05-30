@@ -28,6 +28,8 @@ add_subdirectory(HW7)
 add_subdirectory(HW9)
 add_subdirectory(HW12)
 add_subdirectory(HW13IMU)
+add_subdirectory(HW16)
+
 
 
 add_compile_options(-Wall
